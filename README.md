@@ -76,9 +76,9 @@ Once both the frontend and backend are running, the application will be availabl
 - **o-frontend/**: Contains the React frontend with pages for Login, Register, Products, Cart, and Checkout.
 
 ## 📷 Screenshots
-![Shopping Cart](o-frontend/outputs/1.png)
-![Shopping Cart](o-frontend/outputs/2.png)
-![Shopping Cart](o-frontend/outputs/3.png)
-![Shopping Cart](o-frontend/outputs/4.png)
-![Shopping Cart](o-frontend/outputs/5.png)
-![Shopping Cart](o-frontend/outputs/6.png)
+![Shopping Cart](o-frontend/ouputs/1.png)
+![Shopping Cart](o-frontend/ouputs/2.png)
+![Shopping Cart](o-frontend/ouputs/3.png)
+![Shopping Cart](o-frontend/ouputs/4.png)
+![Shopping Cart](o-frontend/ouputs/5.png)
+![Shopping Cart](o-frontend/ouputs/6.png)
