@@ -86,4 +86,6 @@ Once both the frontend and backend are running, the application will be availabl
 
 ![Shopping Cart](o-frontend/src/ouputs/2.png)
 
+![Shopping Cart](o-frontend/src/ouputs/7.png)
+
 ![Shopping Cart](o-frontend/src/ouputs/1.png)
