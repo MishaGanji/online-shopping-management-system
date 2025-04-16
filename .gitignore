@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+env/
+venv/
+instance/
+*.sqlite3
+
+# Flask
+*.log
+*.env
+
+# Node / React
+node_modules/
+build/
+dist/
+*.log
+
+# React in subfolder
+o-frontend/node_modules/
+o-frontend/build/
+o-frontend/.env
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# MySQL dumps or backups
+*.sql
+
+# Misc
+*.swp
+*.bak
